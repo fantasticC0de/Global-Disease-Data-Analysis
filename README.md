@@ -6,7 +6,7 @@ Studying the effects diseases had on countries can take up several minutes of yo
 ## Dataset
 - Source: https://www.kaggle.com/datasets/malaiarasugraj/global-health-statistics
 - Description: This data set provides information on the effects on Countries from diseases at a specific point in time.
-- Size: [Number of records/features]
+- Size: 1,000,002 Records
 - Quality: Basic/Limited data
 
 ## Features
