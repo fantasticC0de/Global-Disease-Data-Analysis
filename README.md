@@ -1,25 +1,26 @@
 # Global-Disease-Data-Analysis
+
 ## Problem Statement
-Clearly explain the problem you're solving and why it matters.
+Studying the effects diseases had on countries can take up several minutes of your day, so this data set strives to reduce that time to seconds.
 
 ## Dataset
-- Source: [Where you got the data]
-- Description: [What the data contains]
+- Source: https://www.kaggle.com/datasets/malaiarasugraj/global-health-statistics
+- Description: This data set provides information on the effects on Countries from diseases at a specific point in time.
 - Size: [Number of records/features]
-- Quality: [Any data quality notes]
+- Quality: Basic/Limited data
 
 ## Features
 1. Interactive Analysis
-   - Feature 1: [Description of interactive feature]
-   - Feature 2: [Description of interactive feature]
+   - Feature 1: Select Country
+   - Feature 2: Select year (2014-2024)
+   - Feature 3: Select research topic
+   - Feature 4: Select disease
    
 2. Data Processing
-   - Feature 1: [Description of processing feature]
-   - Feature 2: [Description of processing feature]
+   - The program digs into the data set and fetches out information, based on the selected, to then return the most recently updated information.
 
 3. Visualizations
-   - Type 1: [Description]
-   - Type 2: [Description]
+   - Text, input/output
 
 ## Program Structure
 project/
